@@ -4,8 +4,7 @@ Where is the support queue missing service commitments?
 
 ## Overview
 
-A support manager needs to separate first-response delays from unresolved ticket backlog. This advanced portfolio case study contains an original dataset, executable Python and SQL, a notebook with saved outputs and an offline dashboard. It is designed for learning, portfolio development and interview practice.
-
+A support manager needs to separate first-response delays from unresolved ticket backlog. This advanced portfolio case study contains an original dataset, executable Python and SQL, a notebook with saved outputs and an offline dashboard.
 **Data status:** Synthetic. **Observation period:** Fictional 2025. 
 
 ## Problem statement
